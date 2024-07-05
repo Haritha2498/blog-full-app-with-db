@@ -91,5 +91,5 @@ app.post('/blog', async(req,res) => {
 })
 
 app.listen(3010, () => {
-    console.log("The server is starting in 3000")
+    console.log("The server is starting in 3010")
 })
